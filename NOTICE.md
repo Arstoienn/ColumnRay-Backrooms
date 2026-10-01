@@ -1,0 +1,17 @@
+# Notice
+
+ColumnRay Backrooms is licensed under the Creative Commons Attribution 4.0 International License
+(CC BY 4.0), whose full text is in LICENSE.
+
+It is an adaptation of "Backrooms VR"
+(https://sketchfab.com/3d-models/backrooms-vr-d9b98eca8d064d0eafcd7f5484bb61ed) by carlcapu9
+(https://sketchfab.com/carlcapu9), licensed under CC BY 4.0
+(http://creativecommons.org/licenses/by/4.0/).
+
+Changes from the original: the geometry was converted to ColumnRay's map format; the baked lighting
+was taken out of the wall, carpet and ceiling images; the images were resized; smoke detectors and
+wall sockets were removed; lights, glowing panels and flickering lamps were added.
+
+When you share this map or anything made from it, credit carlcapu9 for the original model and
+ColumnRay Backrooms (https://github.com/Arstoienn/ColumnRay-Backrooms) for the conversion, link to
+the licence, and say whether you changed it.

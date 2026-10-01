@@ -57,5 +57,5 @@ by [carlcapu9](https://sketchfab.com/carlcapu9), licensed under
 [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/). It has been changed as described above.
 
 This map is licensed under the same terms, [CC BY 4.0](LICENSE): share and adapt it for any purpose,
-crediting carlcapu9 for the original model and this repository for the conversion. The engine is
-separately MIT-licensed.
+crediting carlcapu9 for the original model and this repository for the conversion, as
+[NOTICE.md](NOTICE.md) sets out. The engine is separately MIT-licensed.
